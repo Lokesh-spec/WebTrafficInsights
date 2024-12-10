@@ -1,0 +1,70 @@
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pdb
+*.log
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Apache Beam temp files
+*.avro
+*.json
+*.parquet
+*.csv
+*.txt
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Local settings (PyCharm, VSCode, etc.)
+.idea/
+.vscode/
+
+# Pytest
+*.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.coveragerc
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# Logs
+logs/
+
+# Python distribution
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+sdist/
+*.tar.gz
+
+
+
+# Local configuration files
+.local/
+user_traffic_pipeline.egg-info/
+config/
+
