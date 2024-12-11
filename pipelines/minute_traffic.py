@@ -89,7 +89,7 @@ def run():
         help="Specify folder name that event records are saved",
     )
     parser.add_argument(
-        "--runner", default="DataFlowRunner", help="Specify Apache Beam Runner"
+        "--runner", default="DirectRunner", help="Specify Apache Beam Runner"
     )
     
     parser.add_argument(

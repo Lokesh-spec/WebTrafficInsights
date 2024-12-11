@@ -96,9 +96,9 @@ The tests will validate the functionality of the pipeline components. For exampl
 
 ### Example Image Outputs
 
-- **BigQuery Output**: ![BigQuery-Output](images/BigQuery-Output.png)
-- **DataFlow Job**: ![DataFlow-Job](images/DataFlow-Job.png)
-- **Pytest Output**: ![Pytest](images/Pytest.png)
+- **BigQuery Output**:
+- **DataFlow Job**:
+- **Pytest Output**:
 
 ## License
 
